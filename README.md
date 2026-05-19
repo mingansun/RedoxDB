@@ -1,5 +1,4 @@
 # RedoxDB
-The source data of RedoxDB
 
 This webpage hosts the source data of RedoxDB, which is a database curated database for protein oxidative modifications.
 
